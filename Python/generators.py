@@ -26,8 +26,6 @@
 # for num in generator:
 #     print(num)
 
-######################################################
-
 # def csv_reader(file_name):
 #     file = open(file_name)
 #     result = file.read().split("\n")
